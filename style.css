@@ -1,0 +1,193 @@
+body
+{
+	background-color: #ffff00;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	width: 600px;
+	text-align: left;
+}
+#zegar
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	text-align: left;
+}
+.rectangle
+{
+	width: 960px;
+	margin: 20px;
+	text-align: center;
+	color: #000000;
+	float: left;
+}
+.generalpage
+{
+	width: 64px;
+	height: 64px;
+	text-decoration: none;
+	background: url("img/up.png")no-repeat 0px 0px;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;	
+}
+.tile1
+{
+	margin: 10px;
+	width: 400px;
+	height: 224px;
+	background-color: #303030;
+	text-align: center;
+	padding: 40px;
+	float: left;
+}
+.tile2
+{
+	margin: 10px;
+	width: 130px;
+	height: 42px;
+	background-color: #0000FF;
+	color: #0000FF;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
+	color: #000000;
+	text-decoration: none
+}
+.tile2:hover
+{
+	background-image:url(img/csgo.png);
+}
+.tile2-1
+{
+	margin: 10px;
+	width: 130px;
+	height: 42px;
+	background-color: #0000FF;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
+}
+.tile2-1:hover
+{
+	background-image:url(img/dota2.png);
+}
+.tile2-2
+{
+	margin: 10px;
+	width: 170px;
+	height: 82px;
+	background-color: #0000FF;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	padding: 30px;
+}
+.tile2-2:hover
+{
+	background-image:url(img/lol.png);
+}
+.tile2-3
+{
+	margin: 10px;
+	width: 130px;
+	height: 42px;
+	background-color: #0000FF;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
+}
+.tile2-3:hover
+{
+	background-image:url(img/brawlhalla.png);
+}
+.tile3
+{
+	margin: 10px;
+	width: 440px;
+	height: 102px;
+	background-color: #8B4513;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+	line-height: 150%;
+	float: left;
+}
+.tile3:hover
+{
+	background-image:url(img/iem.png);
+}
+ .tile4
+{
+	margin: 10px;
+	width: 440px;
+	height: 102px;
+	background-color: #ff0400;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+	line-height: 150%;
+	float: left;
+}
+.tile4:hover
+{
+	background-image:url(img/iem.v2.png);
+}
+.tile5
+{
+	margin: 10px;
+	width: 920px;
+	height: 82px;
+	background-color: #008000;
+	text-align: center;
+	font-size: 26px;
+	padding: 30px;
+	line-height: 150%;
+	float: right;
+}
+a.tilelinkhtml
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+a.tilelinkhtml:hover
+{
+	color: #0cff00;
+	text-decoration: underline;
+}
+a.tilelinkhtml1
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+a.tilelinkhtml1:hover
+{
+	color: #ff0000;
+	text-decoration: underline;
+}
+a.tilelinkhtml2
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+a.tilelinkhtml2:hover
+{
+	color: #f2ff00;
+	text-decoration: none;
+}
